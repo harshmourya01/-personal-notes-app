@@ -7,7 +7,7 @@ A clean, elegant and minimal **React Notes App** that lets you create and delete
 ## 📸 Screenshots
 
 ### 🏠 Home Interface
-![Home](screenshots/home.png)
+![Home](personal-notes-app/screenshots/add-note.png)
 ### ➕ Add Note View
 ![Add Note](screenshots/add-note.png)
 ---
